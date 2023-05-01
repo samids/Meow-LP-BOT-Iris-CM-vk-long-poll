@@ -28,11 +28,11 @@
 Установка модулей и запуск:
 ```bash
 
-cd {путь}
+cd {путь};
 
-npm i google-tts-api  vk-io fs request
+npm i;
 
-node LPBOT.js
+node LPBOT.js;
  ```
 После:
 
